@@ -14,8 +14,9 @@ This project implements an end-to-end Natural Language Processing (NLP) pipeline
 
 ---
 
-## Project Structure
+<h2>Project Structure</h2>
 
+<pre>
 .
 ├── Input.xlsx
 ├── Output.csv
@@ -32,6 +33,8 @@ This project implements an end-to-end Natural Language Processing (NLP) pipeline
 │       ├── URL_ID_1.txt
 │       └── URL_ID_2.txt
 └── README.md
+</pre>
+
 
 
 
