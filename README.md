@@ -15,22 +15,23 @@ This project implements an end-to-end Natural Language Processing (NLP) pipeline
 ---
 
 ## Project Structure
-
+.
 ├── Input.xlsx
 ├── Output.csv
 ├── main.py
 ├── StopWords/
-│ ├── StopWords_Auditor.txt
-│ ├── StopWords_Currencies.txt
-│ └── ...
+│   ├── StopWords_Auditor.txt
+│   ├── StopWords_Currencies.txt
+│   └── ...
 ├── MasterDictionary/
-│ ├── positive-words.txt
-│ └── negative-words.txt
+│   ├── positive-words.txt
+│   └── negative-words.txt
 ├── data/
-│ └── extracted_articles/
-│ ├── URL_ID_1.txt
-│ └── URL_ID_2.txt
+│   └── extracted_articles/
+│       ├── URL_ID_1.txt
+│       └── URL_ID_2.txt
 └── README.md
+
 
 
 ---
